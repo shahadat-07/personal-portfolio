@@ -1,0 +1,92 @@
+body{
+    margin:0;
+    font-family: 'Inter';
+}
+section{
+    height: 500px;
+    padding-bottom: 20%;
+}
+img{
+    width:80%;
+
+}
+h1{
+    font-size: 70px;
+    font-weight: 700;
+    color:#333333;
+    line-height: 12px;
+}
+h3{
+    color:#333333;
+    font-size: 40px;
+}
+p{
+    color:#333333;
+    margin-bottom: 40px;
+    font-weight: 400;
+}
+#adjust h1{
+    margin-bottom: -10px;
+}
+.highlight{
+    color:#FF8367;
+}
+#hey{margin-top:200px;
+    
+}
+
+.half-width{
+    width:45%;
+    float:left;
+    padding-left:5%;
+    margin-top: 50px;
+}
+.one-third{
+    width: 30%;
+    float: left;
+    padding-left: 3%;
+    border-radius: 5px;
+}
+ul {
+    list-style: none;
+    float:right;
+    margin:20px;
+}
+ul li{
+    display: inline;
+    font-size: 20px;
+    padding:25px;
+}
+.btn{
+    text-decoration: none;
+    background-image: linear-gradient(salmon,tomato);
+    color: white;
+    padding: 20px 55px;
+    border-radius: 5px;
+}
+#row{
+    margin-bottom: 150px;
+    margin-left: 200px;
+    width:70%;
+    background-image: url("images/Group_33094_1.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    padding:50px;
+    border-radius: 10px;
+    float: left;
+}
+.single{
+    width:40%;
+    float: left;
+}
+#headline{
+    color:white;
+    font-size: 40px;
+}
+#we{
+    border:2px solid dimgray;
+    margin:10px;
+    margin-left: 120px;
+    margin-bottom: 50px;
+}
+
